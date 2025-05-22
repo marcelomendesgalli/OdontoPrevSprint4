@@ -1,0 +1,7 @@
+C:\Users\I746830\Desktop\FIAP\ChallengeOdontoprevSprint4-master\OdontoPrevAPI\obj\Debug\net8.0\OdontoPrevAPI.csproj.AssemblyReference.cache
+C:\Users\I746830\Desktop\FIAP\ChallengeOdontoprevSprint4-master\OdontoPrevAPI\obj\Debug\net8.0\OdontoPrevAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I746830\Desktop\FIAP\ChallengeOdontoprevSprint4-master\OdontoPrevAPI\obj\Debug\net8.0\OdontoPrevAPI.AssemblyInfoInputs.cache
+C:\Users\I746830\Desktop\FIAP\ChallengeOdontoprevSprint4-master\OdontoPrevAPI\obj\Debug\net8.0\OdontoPrevAPI.AssemblyInfo.cs
+C:\Users\I746830\Desktop\FIAP\ChallengeOdontoprevSprint4-master\OdontoPrevAPI\obj\Debug\net8.0\OdontoPrevAPI.csproj.CoreCompileInputs.cache
+C:\Users\I746830\Desktop\FIAP\ChallengeOdontoprevSprint4-master\OdontoPrevAPI\obj\Debug\net8.0\OdontoPrevAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\I746830\Desktop\FIAP\ChallengeOdontoprevSprint4-master\OdontoPrevAPI\obj\Debug\net8.0\OdontoPrevAPI.MvcApplicationPartsAssemblyInfo.cache
