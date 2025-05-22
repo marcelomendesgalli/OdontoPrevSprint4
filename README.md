@@ -1,5 +1,5 @@
 # Challenge OdontoPrev Sprint 4 
-## Sobre o Projeto
+## Projeto
 Este projeto utiliza uma API RESTful em C#. A aplicação gerencia operações de Pacientes, Dentistas, Clínicas, Agendamentos, além de  com o auxílio de Machine Learning (ML.NET).
 
 ## Funcionalidades Principais:
