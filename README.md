@@ -28,14 +28,19 @@ DELETE /api/pacientes/{id}
 
 ## Rodar a API
 Clone o repositório:
+
 git clone https://github.com/marcelomendesgalli/OdontoPrevSprint4.git
+
 cd OdontoPrevSprint4
 
 ## Restaure as dependências:
 
 dotnet restore
+
 Execute o projeto:
+
 dotnet run
+
 Acesse o Swagger em https://localhost:{porta}/swagger
 
  
