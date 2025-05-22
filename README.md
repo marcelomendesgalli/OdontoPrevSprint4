@@ -47,6 +47,8 @@ Acesse o Swagger em https://localhost:{porta}/swagger
 # Integrantes do Grupo
 
 Erick Lopes Silva RM553927
+
 Marcelo Mendes Galli RM553654
+
 Lucas Emanuel da Silva Basto RM553771
 
