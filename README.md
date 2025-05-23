@@ -1,6 +1,6 @@
 # Challenge OdontoPrev Sprint 4 
 ## Projeto
-Este projeto utiliza uma API RESTful em C#. A aplicação gerencia operações de Pacientes, Dentistas, Clínicas, Agendamentos, além de  com o auxílio de Machine Learning (ML.NET).
+Este projeto utiliza uma API RESTful em C#. A aplicação gerencia operações de Pacientes, Dentistas, Clínicas, Agendamentos.
 
 ## Funcionalidades Principais:
 Gerenciamento de Pacientes, Dentistas, Clínicas, Agendamentos.
@@ -8,15 +8,16 @@ Cadastro, leitura, atualização e exclusão (CRUD).
 Testes unitários, de integração e de sistema com xUnit.
 Documentação completa com Swagger.
 
-## Integração com ML.NET
-A API utiliza ML.NET para 
+## Arquitetura
 
+Arquitetura baseada em Microservices.
 
 ## Testes com xUnit
 Foram desenvolvidos testes de:
 
 Unidade, para validar comportamentos isolados dos serviços, integração validando conexão com o banco Oracle e endpoints REST e de sistema.
-Todos os testes foram escritos com xUnit
+
+Todos os testes foram escritos com xUnit.
 
 ## Endpoints CRUD
 A API realiza operações CRUD com banco Oracle para os seguintes recursos:
